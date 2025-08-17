@@ -80,11 +80,7 @@ This project is open for contributions! Whether you're fixing bugs, adding featu
 
 This project is open source and available under the MIT License.
 
-## 💡 Why I Built This
 
-As someone who was tired of manually filling out countless job applications and forms, I created this system to automate the tedious parts of online work. It's designed to be powerful yet simple, secure yet accessible.
-
----
 
 
 *Star this repo if it helps you save time!*
